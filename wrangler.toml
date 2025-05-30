@@ -13,3 +13,9 @@ preview_bucket_name = "librosphere" # 请替换为您实际创建的R2存储桶�
 # binding = "DMARC_ANALYTICS"
 # dataset = "dmarc_reports"
 
+# wrangler.toml (wrangler v3.88.0^)
+[observability.logs]
+enabled = true
+
+
+
